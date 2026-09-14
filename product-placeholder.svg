@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title description">
+  <title id="title">Product image unavailable</title>
+  <desc id="description">A simple shopping bag placeholder icon</desc>
+  <rect width="400" height="400" fill="#f3f4f6"/>
+  <path d="M125 145h150l18 170H107l18-170Z" fill="#ffffff" stroke="#cbd5e1" stroke-width="8"/>
+  <path d="M165 150v-22c0-39 70-39 70 0v22" fill="none" stroke="#64748b" stroke-width="12" stroke-linecap="round"/>
+  <path d="M155 215h90M155 255h60" stroke="#94a3b8" stroke-width="10" stroke-linecap="round"/>
+</svg>
